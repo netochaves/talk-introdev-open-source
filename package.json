@@ -10,6 +10,7 @@
     "rebass": "^4.0.6"
   },
   "scripts": {
-    "start": "mdx-deck src/deck.mdx"
+    "start": "mdx-deck src/deck.mdx",
+    "build": "mdx-deck build src/deck.mdx"
   }
 }
